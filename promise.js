@@ -27,3 +27,4 @@ for(let i = 0; i < 4; i++){
         console.error('An error occurred', error);
     });
 }
+
